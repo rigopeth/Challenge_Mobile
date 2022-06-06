@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Telos Labs Challenge Mobile</string>
+    <string name="popular_movies">Populars Movies</string>
+    <string name="popular_tv_shows">Popular Tv Shows</string>
+    <string name="your_favorites">Your Favorites Movies and Series</string>
+    <string name="your_rented_movies">Your Rented Movies and Series</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="your_movie_results">Movie Results</string>
+    <string name="your_tvshows_results">TvShows Results</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
